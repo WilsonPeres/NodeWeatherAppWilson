@@ -1,5 +1,5 @@
 body {
-  background: url("./img/cool\ clouds.jpg") no-repeat center/cover;
+  background: url("/css/img/cool-clouds.jpg") no-repeat center/cover;
     width: 800px;
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
