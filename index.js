@@ -54,6 +54,5 @@ app.post('/', (req, res) => {
 
 const port = process.env.PORT || 3000
 app.listen(port, () => {
-    console.log(`This server is running on port ${port}`)
+    console.log(`This server is running on port ${port}. Please open port ${port} to run this application.`)
 })
-
