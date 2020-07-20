@@ -26,7 +26,7 @@ app.post('/', (req, res) => {
             let weather = JSON.parse(body)
 
             if(weather.main == undefined) {
-                res.render(res.render('index', { weather : null, error : 'Error, please try again' }))
+                res.render('index', { weather : null, error : 'Error, please try again' })
 
             } else {
                 let weatherText = `Its ${weather.main.temp} degrees in ${weather.name}`
