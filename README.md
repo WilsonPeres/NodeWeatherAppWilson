@@ -15,8 +15,5 @@ To stop the server from running, hit `command + c`.
 - [Node](https://github.com/nodejs/node) - Runtime environment used
 
 
-## Author 
-- [Leeangelo Riley](https://github.com/LeCoding-tech)
-
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LeCoding-tech/node-weather-app/blob/master/LICENSE) file for details.

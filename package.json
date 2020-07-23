@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "weather-appwilson",
   "version": "1.0.0",
   "description": "Weather app",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/rtjohnson0/node-weather-app.git"
   },
-  "author": "Leeangelo Riley",
+  "author": "Wilson Peres",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rtjohnson0/node-weather-app/issues"

@@ -38,20 +38,6 @@ app.post('/', (req, res) => {
 
 
 
-
-// request(url, (err, response, body) => {
-//     if (err) console.log(`error: ${err}`)
-
-//     // else console.log(`body: ${body}`)
-
-//     let weather = JSON.parse(body)
-
-//     let message = `It is ${weather.main.temp} degrees outside in ${weather.name}`
-
-//     console.log(message);
-// });
-
-
 const port = process.env.PORT || 3000
 app.listen(port, () => {
     console.log(`This server is running on port ${port}. Please open port ${port} to run this application.`)
